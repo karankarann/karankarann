@@ -1,6 +1,5 @@
-Hi there! 👋 Welcome to my GitHub profile!
+## Hi there! 👋 Welcome to my GitHub profile!
 
-About Me
 I'm Karan Oberoi, a passionate Data Engineer and Machine Learning enthusiast with a strong background in business transformation consulting. I love turning complex data into actionable insights and driving impactful change through technology.
 
 
