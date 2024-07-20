@@ -3,10 +3,8 @@ Hi there! 👋 Welcome to my GitHub profile!
 About Me
 I'm Karan Oberoi, a passionate Data Engineer and Machine Learning enthusiast with a strong background in business transformation consulting. I love turning complex data into actionable insights and driving impactful change through technology.
 
-**My Expertise**
-Data Consulting including Data Engineer and Machine learning, building end to end data solution for business transformation!
 
-What I'm Working On
+**What I'm Working On**
 Some cool Genrative AI projects! Stay Tuned ;)
 
 Let's Connect!
