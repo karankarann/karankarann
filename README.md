@@ -4,10 +4,10 @@ I'm Karan Oberoi, a passionate Data Engineer and Machine Learning enthusiast wit
 
 #### What I Bring to the Table:
 
-##### - **Expertise in Data Engineering & ML:** Proficient in building robust data pipelines, deploying machine learning models, and ensuring seamless data flow across platforms.
-##### - **Tech Savvy:** Adept with tools and technologies including Python, R, SQL, Google Cloud, Apache Airflow, Kubernetes, TensorFlow, and more.
-##### - **Innovative Mindset:** Always exploring new ways to solve problems, automate processes, and make data-driven decisions.
-##### - **Collaborative Spirit:** I believe in the power of teamwork and open collaboration, and I’m always ready to connect with like-minded tech enthusiasts.
+ - **Expertise in Data Engineering & ML:** Proficient in building robust data pipelines, deploying machine learning models, and ensuring seamless data flow across platforms.
+ - **Tech Savvy:** Adept with tools and technologies including Python, R, SQL, Google Cloud, Apache Airflow, Kubernetes, TensorFlow, and more.
+ - **Innovative Mindset:** Always exploring new ways to solve problems, automate processes, and make data-driven decisions.
+ - **Collaborative Spirit:** I believe in the power of teamwork and open collaboration, and I’m always ready to connect with like-minded tech enthusiasts.
 
 #### Check Out My Portfolio:
 Explore my portfolio [here](https://www.datascienceportfol.io/karanoberoi) to see more about my work, projects, and what I'm passionate about!
